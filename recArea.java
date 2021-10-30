@@ -1,5 +1,5 @@
 
-public class recArea {
+public class rectArea {
 
 	public static void main(String[] args) {
 		   System.out.println(rectArea(10,16));
