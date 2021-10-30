@@ -7,8 +7,8 @@ public class recArea {
 	}
 	  public static double rectArea(double width,double length){
 	       
-	       double area =  Math.abs(width) * Math.abs(length);
-	       return area;
+	       double area =  width * length;
+	       return Math.abs(area);
 	   }
 
 
