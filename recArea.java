@@ -2,7 +2,7 @@
 public class recArea {
 
 	public static void main(String[] args) {
-		   System.out.println(rectArea(10,-15));
+		   System.out.println(rectArea(10,16));
 
 	}
 	  public static double rectArea(double width,double length){
